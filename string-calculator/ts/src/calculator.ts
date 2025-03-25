@@ -36,3 +36,5 @@ export class StringCalculator {
         return splitRegex;
     }
 }
+
+// regex to find chars in brackets: /\[(.*?)\]/gm
